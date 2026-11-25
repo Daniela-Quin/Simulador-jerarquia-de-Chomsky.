@@ -132,4 +132,4 @@ El documento de implementación, con los conceptos aplicados en cada nivel (defi
 
 ## Licencia
 
-Proyecto académico/ MIT
+Proyecto académico
