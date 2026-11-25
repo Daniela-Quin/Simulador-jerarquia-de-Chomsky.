@@ -30,8 +30,8 @@ Para comprobar que tkinter funciona: `python -m tkinter` debe abrir una ventana 
 1. Clonar el repositorio (o descargarlo como ZIP desde el botón **Code** y descomprimirlo):
 
    ```bash
-   git clone https://github.com/USUARIO/simulador-chomsky.git
-   cd simulador-chomsky
+   git clone https://github.com/Daniela-Quin/Simulador-jerarquia-de-Chomsky.git.
+   cd Simulador-jerarquia-de-Chomsky
    ```
 
 2. Ejecutar la aplicación:
