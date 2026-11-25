@@ -46,12 +46,13 @@ Para comprobar que tkinter funciona: `python -m tkinter` debe abrir una ventana 
 
 ```
 simulador-chomsky/
-├── main_sim.py    # Ventana principal, estilo visual y pestañas
-├── Nivel_3.py     # Autómata finito
-├── Nivel_2.py     # Autómata con pila
-├── Nivel_1.py     # Autómata linealmente acotado
+├── .gitignore
 ├── Nivel_0.py     # Máquina de Turing
+├── Nivel_1.py     # Autómata linealmente acotado
+├── Nivel_2.py     # Autómata con pila
+├── Nivel_3.py     # Autómata finito
 ├── README.md
+├── main_sim.py    # Ventana principal, estilo visual y pestañas
 └── docs/          # Documento de implementación
 ```
 
